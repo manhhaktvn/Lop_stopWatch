@@ -1,0 +1,7 @@
+D:\luu tru vao day\lung tung\chua c#\Lop_stopWatch\Lop_stopWatch\bin\Debug\Lop_stopWatch.exe.config
+D:\luu tru vao day\lung tung\chua c#\Lop_stopWatch\Lop_stopWatch\bin\Debug\Lop_stopWatch.exe
+D:\luu tru vao day\lung tung\chua c#\Lop_stopWatch\Lop_stopWatch\bin\Debug\Lop_stopWatch.pdb
+D:\luu tru vao day\lung tung\chua c#\Lop_stopWatch\Lop_stopWatch\obj\Debug\Lop_stopWatch.csproj.AssemblyReference.cache
+D:\luu tru vao day\lung tung\chua c#\Lop_stopWatch\Lop_stopWatch\obj\Debug\Lop_stopWatch.csproj.CoreCompileInputs.cache
+D:\luu tru vao day\lung tung\chua c#\Lop_stopWatch\Lop_stopWatch\obj\Debug\Lop_stopWatch.exe
+D:\luu tru vao day\lung tung\chua c#\Lop_stopWatch\Lop_stopWatch\obj\Debug\Lop_stopWatch.pdb

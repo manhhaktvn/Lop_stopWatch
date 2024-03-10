@@ -1,0 +1,7 @@
+D:\luu tru vao day\lung tung\chua c#\Lop_stopWatch\sap_Xep_tang_dan_trong_chuoi_100000_so\obj\Debug\sap_Xep_tang_dan_trong_chuoi_100000_so.csproj.AssemblyReference.cache
+D:\luu tru vao day\lung tung\chua c#\Lop_stopWatch\sap_Xep_tang_dan_trong_chuoi_100000_so\obj\Debug\sap_Xep_tang_dan_trong_chuoi_100000_so.csproj.CoreCompileInputs.cache
+D:\luu tru vao day\lung tung\chua c#\Lop_stopWatch\sap_Xep_tang_dan_trong_chuoi_100000_so\bin\Debug\sap_Xep_tang_dan_trong_chuoi_100000_so.exe.config
+D:\luu tru vao day\lung tung\chua c#\Lop_stopWatch\sap_Xep_tang_dan_trong_chuoi_100000_so\bin\Debug\sap_Xep_tang_dan_trong_chuoi_100000_so.exe
+D:\luu tru vao day\lung tung\chua c#\Lop_stopWatch\sap_Xep_tang_dan_trong_chuoi_100000_so\bin\Debug\sap_Xep_tang_dan_trong_chuoi_100000_so.pdb
+D:\luu tru vao day\lung tung\chua c#\Lop_stopWatch\sap_Xep_tang_dan_trong_chuoi_100000_so\obj\Debug\sap_Xep_tang_dan_trong_chuoi_100000_so.exe
+D:\luu tru vao day\lung tung\chua c#\Lop_stopWatch\sap_Xep_tang_dan_trong_chuoi_100000_so\obj\Debug\sap_Xep_tang_dan_trong_chuoi_100000_so.pdb
